@@ -1,4 +1,5 @@
 /*header styles*/
+
 .logo {
 	color: #FA6980;
 	display: inline-block;
@@ -16,7 +17,7 @@
 	margin: 0 auto;
 }
 .img1 {
-	margin-top: 10px;
+	vertical-align: middle;
 	margin-left: 40px;
 }
 .home {
@@ -43,7 +44,10 @@
 	color: red;
 }
 .sect-1 {
-	margin:  79px 218px 114px 62px;
+	width: 1160px;
+	height: 410px;
+	margin-left: 140px;
+	margin-top: 25px;
 }
 
 
@@ -65,7 +69,9 @@
 
 .block-text {
 margin: 0 auto;
-text-align: center;
+margin-top: 66px;
+width: 280px;
+height: 38px;
 }
 
  .T-1 {
@@ -77,4 +83,62 @@ text-align: center;
 	font-size: 16px;
     color: #FFFFFF;
  }
- 
+/*section-2*/
+.section-2 {
+	display: inline-block;
+	margin-bottom: 234px;
+}
+
+.T-03 {
+	width: 770px;
+	height: 20px;
+	color: red;
+	margin-left: 140px;
+	margin-top: 58px;
+	margin-bottom: 40px;
+}
+
+.left-block {
+	width: 760px;
+	height: 900px;
+	margin-left: 140px;
+	position: relative;
+	display: inline-block;
+}
+
+.S2-Text1 {
+	position: absolute;
+	left: 569px;
+	top: 394px;
+	width: 280px;
+	height: 16px;
+	color: #FFFFFF;
+}
+.Trail-img {
+	margin-top: 40px;
+}
+
+.right-block {
+	width: 360px;
+	height: 896px;
+	position: relative;
+	display: inline-block;
+	margin-left: 40px;
+}
+
+.S2-Text2 {
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	right: 40px;
+	width: 280px;
+	height: 16px;
+	color: #FFFFFF;
+}
+.bird-img {
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
+.way-img {
+	margin-bottom: 62px;
+}
