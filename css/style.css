@@ -1,4 +1,80 @@
 /*header styles*/
 .logo {
 	color: #FA6980;
+	display: inline-block;
+	margin-top: 18px;
+	margin-left: 20px;
+
 }
+.nav-li {
+	display: inline-block;
+	margin-right: 150pxs;
+	margin-bottom: 18px;
+}
+.navigation {
+	display: inline-block;
+	margin: 0 auto;
+}
+.img1 {
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.home {
+    vertical-align: center;
+	margin-left: 93px;
+	margin-top: 10px;
+	margin-bottom: 18px;
+}
+.dis {
+    vertical-align: center;
+	margin-left: 27px; 
+}
+.pho {
+    vertical-align: center;
+	margin-left: 22px;
+}
+.con {
+    vertical-align: center;
+	margin-left: 22px;
+}
+
+/*section-1*/
+.T-02 {
+	color: red;
+}
+.sect-1 {
+	margin:  79px 218px 114px 62px;
+}
+
+
+.block-01,
+.block-02, 
+.block-03 {
+	width: 360px;
+    height: 350px;
+	display: inline-block;
+	background: #FFFFFF;
+	margin-top: 40px;
+	position: relative;
+}
+
+.block-02 {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+.block-text {
+margin: 0 auto;
+text-align: center;
+}
+
+ .T-1 {
+ 	position: absolute;
+	top: 28px;
+	left: 40px;
+	width: 280px;
+	height: 16px;
+	font-size: 16px;
+    color: #FFFFFF;
+ }
+ 
